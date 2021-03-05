@@ -1,0 +1,414 @@
+Titanic
+20th Century Fox
+Leo DiCaprio
+20
+100
+15
+20
+4
+1
+Swordfish
+Silver Pictures
+John Travolta
+13
+20
+5
+2
+2
+1
+Men in Black
+20th Century Fox
+Will Smith
+16
+80
+10
+10
+7
+4
+First Contact
+Paramount
+Tommy Lee Jones
+16
+50
+30
+15
+1
+3
+Pulp Fiction
+Miramax
+John Travolta
+14
+75
+50
+21
+1
+1
+Romeo and Juliet
+20th Century Fox
+Leo DiCaprio
+18
+75
+50
+15
+2
+1
+Independence Day
+20th Century Fox
+Will Smith
+14
+60
+40
+13
+1
+3
+Jerry Maguire
+Paramount
+Tom Cruise
+15
+65
+53
+11
+0
+4
+Pretty Woman
+Paramount
+Julia Roberts
+10
+30
+25
+3
+0
+1
+The Fugitive
+Paramount
+Tommy Lee Jones
+16
+50
+46
+4
+0
+1
+Air Force One
+20th Century Fox
+Harrison Ford
+16
+85
+65
+16
+0
+1
+Basketball Diaries
+Miramax
+Leo DiCaprio
+12
+20
+15
+2
+1
+1
+Michael
+Paramount
+John Travolta
+11
+25
+10
+1
+2
+4
+Face Off
+20th Century Fox
+John Travolta
+13
+45
+25
+13
+1
+1
+Best Friend's Wedding
+Paramount
+Julia Roberts
+14
+50
+29
+18
+0
+4
+Top Gun
+Paramount
+Tom Cruise
+12
+30
+15
+15
+0
+1
+Star Wars
+Lucasfilm
+Harrison Ford
+20
+100
+80
+20
+0
+1
+Marvin's Room
+20th Century Fox
+Leo DiCaprio
+14
+35
+20
+8
+2
+1
+Batman Forever
+20th Century Fox
+Tommy Lee Jones
+16
+28
+14
+14
+0
+1
+Broken Arrow
+20th Century Fox
+John Travolta
+16
+40
+28
+12
+0
+1
+Pelican Brief
+Miramax
+Julia Roberts
+13
+18
+12
+3
+1
+1
+Patriot Games
+Paramount
+Harrison Ford
+13
+30
+19
+5
+5
+1
+Raiders of the Lost Ark
+Lucasfilm
+Harrison Ford
+16
+80
+60
+15
+1
+1
+Scream
+DreamWorks
+David Arquette
+15
+45
+35
+10
+0
+2
+Far And Away
+20th Century Fox
+Tom Cruise
+13
+25
+13
+5
+0
+1
+This Boy's Life
+Paramount
+Leo DiCaprio
+16
+35
+23
+11
+0
+1
+Sense and Sensibility
+20th Century Fox
+Kate Winslet
+13
+15
+10
+4
+0
+1
+Grease
+Paramount
+John Travolta
+15
+70
+53
+14
+1
+1
+American Graffiti
+Lucasfilm
+Harrison Ford
+12
+24
+13
+8
+2
+1
+Jude
+Miramax
+Kate Winslet
+11
+10
+9
+0
+1
+3
+Don's Plum
+Miramax
+Leo DiCaprio
+12
+26
+16
+3
+0
+4
+Relic
+DreamWorks
+Linda Hunt
+14
+30
+18
+12
+0
+3
+Return of the Jedi
+Lucasfilm
+Harrison Ford
+18
+85
+55
+30
+0
+3
+Temple of Doom
+Lucasfilm
+Harrison Ford
+16
+80
+50
+25
+0
+3
+Lost In Space
+Paramount
+Will Smith
+16
+48
+30
+12
+0
+3
+Speed 2
+20th Century Fox
+Kate Winslet
+14
+35
+20
+5
+1
+1
+U.S. Marshalls
+Paramount
+Tommy Lee Jones
+15
+54
+38
+12
+0
+1
+The Firm
+20th Century Fox
+Tom Cruise
+14
+50
+43
+6
+0
+1
+Celebrity
+Miramax
+Donald Trump
+13
+36
+24
+6
+1
+4
+Man In The Iron Mask
+20th Century Fox
+Leo DiCaprio
+16
+80
+65
+15
+0
+1
+Marvels The Avengers
+Buena Vista
+Robert Downey Jr.
+16.99
+78
+31
+12
+1
+3
+The Dark Knight Rises
+Warner Bros.
+Christian Bale
+15
+56
+12
+23
+0
+3
+Taken 2
+Fox
+Liam Neeson
+17.99
+28
+4
+11
+2
+1
+Iron Man 3
+Buena Vista
+Robert Downey Jr.
+15.99
+56
+19
+28
+4
+3
+Star Trek Into Darkness
+Paramount
+Chris Pine
+14
+77
+17
+24
+0
+3
+Frozen
+Buena Vista
+Kristin Bell
+17.99
+55
+28
+15 
+2
+1
